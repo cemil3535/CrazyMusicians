@@ -1,4 +1,4 @@
-# CrazyMusicians
+# Crazy Musicians
 
 ![TTZx4B9-cilginmuzisyenler](https://github.com/user-attachments/assets/81123e40-5cf4-4737-8716-9beff79a8359)
 
