@@ -9,5 +9,5 @@ Performing the necessary Validation operations
 Using the [FromQuery] structure
 
 #### Technologies used
-- Asp.Net Core Api
+- Asp.Net Core Web Api
 - C#
